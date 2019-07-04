@@ -1,0 +1,46 @@
+.h2Centre {
+    text-decoration: overline;
+    text-align: center;
+    color: olive;
+
+}
+
+.h4Centre {
+    text-align: center;
+    background-color: whitesmoke;
+}
+
+.h3Centre {
+    text-align: center;
+    color: olive;
+    font-family: Georgia, 'Times New Roman', Times, serif
+}
+
+.h3Down {
+    text-align: center;
+    text-decoration: underline
+
+}
+.h1Carysel{
+    color: cadetblue;
+}
+
+.containerCarysel {
+    padding: 80px 120px;
+}
+
+.pIndex {
+    color: red;
+    text-align: center;
+}
+.imgBas {
+    position: center;
+  }
+  .footer {
+    /*position: fixed;*/
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color:gainsboro;
+    color: white;
+  
